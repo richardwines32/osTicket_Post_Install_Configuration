@@ -42,7 +42,8 @@ This tutorial outlines the post install and configuration of the open-source hel
 <br />
 
  <p>
-2.  Part 2.  Install / Enable IIS in Windows WITH CGI and Common HTTP Features.  World Wide Web Services -> Application Development Features -> [X] CGI [X] Common HTTP Features AND IIS Management Console Internet Information Services -> Web Management Tools -> IIS Management Console [X] IIS Management Console
+2.  Allow anyone to create tickets.  Admin Panel -> Settings -> User Settings.  Registration Required: Require registration and login to create tickets.  Configure Agents (workers).  Admin Panel -> Agents -> Add New Jane John.  Configure Users (customers).  Agent Panel -> Users -> Add New Karen Ken.
+
 
 </p>
 
