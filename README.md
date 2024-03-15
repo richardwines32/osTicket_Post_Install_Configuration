@@ -48,9 +48,17 @@ This tutorial outlines the post install and configuration of the open-source hel
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-14 at 4 03 25 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/939f8e7d-d6b8-48e6-96b9-2bab6bc057bf">
-<img width="1512" alt="Screenshot 2024-03-14 at 4 04 03 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/5d39af2f-4d6d-4d8e-8952-ff3f662da422">
-<img width="1512" alt="Screenshot 2024-03-14 at 4 06 53 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/bd7b6324-d991-4b93-b38d-402eaf5a2446">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 41 12 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/7b7b7147-1bf6-4e30-94fb-c6e6842762f2">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 41 48 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/a6db44f8-f9ec-44b4-b7b3-311d567fd667">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 42 58 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/36f09473-a4ac-4037-989a-8ef3dc0379ae">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 46 36 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/14c5275f-cf1e-4bd9-9418-a33a5c1e7c2c">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 46 42 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/db540568-47d7-4b7e-9e69-2a9c3a3a0fc9">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 49 52 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/c7cb19df-fca8-4401-9106-65bf6c68c0cc">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 50 29 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/3ba6b265-e4e0-478e-a6e4-9fa123831595">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 51 48 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/76338d49-7037-402e-976c-0b3572a7b7a1">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 53 18 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/49c342b2-38c9-4591-8b7d-5f4c25563f0d">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 54 11 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/78260b58-b917-4d71-aada-4eac9a23ac17">
+
 </p>
 
 <br />
