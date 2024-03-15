@@ -18,7 +18,8 @@ This tutorial outlines the post install and configuration of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+1.  (Post Installation Setup)  Configure Roles  Admin Panel -> Agents -> Roles  Supreme Admin  Configure Departments Admin Panel -> Agents -> Departments  System Administrators  Configure Teams  Admin Panel -> Agents -> TeamsLevel I Support  Level II Support
+
 </p>
 
 </p>
