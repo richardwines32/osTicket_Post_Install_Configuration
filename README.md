@@ -69,9 +69,10 @@ This tutorial outlines the post install and configuration of the open-source hel
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-14 at 4 13 07 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/72a74953-1273-4614-92a0-793904097dd5">
-<img width="1512" alt="Screenshot 2024-03-14 at 4 14 08 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/f4d30109-4220-4685-a162-8753cbe49131">
-<img width="1512" alt="Screenshot 2024-03-14 at 4 16 28 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/b8de08bf-59f0-4eb5-b100-e37eab02112a">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 59 22 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/209ff7ef-3b94-423c-92df-7e99fb20d2c5">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 00 35 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/f287cbeb-0b61-4dd1-95ca-6b2cda7ba282">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 01 05 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/059c0885-e93a-402d-b800-c97868f16f99">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 01 31 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/b23a6cda-b2f1-45c6-b134-f0cba9b05e85">
 </p>
 
 <br />
