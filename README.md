@@ -64,7 +64,8 @@ This tutorial outlines the post install and configuration of the open-source hel
 <br />
 
 <p>
-3.  From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).  From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi).
+3.  Configure SLA.  Admin Panel -> Manage -> SLA.  Sev-A (1 hour, 24/7)  Sev-B (4 hours, 24/7)  Sev-C (8 hours, business hours)
+
 </p>
 
 </p>
