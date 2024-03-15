@@ -18,7 +18,7 @@ This tutorial outlines the post install and configuration of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-1.  (Post Installation Setup)  Configure Roles  Admin Panel -> Agents -> Roles  Supreme Admin  Configure Departments Admin Panel -> Agents -> Departments  System Administrators  Configure Teams  Admin Panel -> Agents -> TeamsLevel I Support  Level II Support
+1.  (Post Installation Setup)  Configure Roles.  Admin Panel -> Agents -> Roles  Supreme Admin.  Configure Departments Admin Panel -> Agents -> Departments  System Administrators.  Configure Teams  Admin Panel -> Agents -> TeamsLevel I Support  Level II Support.
 
 </p>
 
