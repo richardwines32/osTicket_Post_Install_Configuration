@@ -23,10 +23,13 @@ This tutorial outlines the post install and configuration of the open-source hel
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-14 at 3 33 19 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/fbb54042-fa2b-483d-931a-938ca8fcfb0a">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 33 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/a18e41eb-a1d6-4caa-93c4-793e7f296b93">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 44 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/62aa9416-cbd3-4429-b463-271df6f2b788">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 35 06 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/93a07b6f-304a-4abe-b348-36e94d1fa100">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 20 48 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/ba6697af-f01b-4787-870e-504bbbb867aa">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 21 02 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/bfeda487-0643-4864-b6a5-a68ed62e7be3">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 21 43 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/a4398537-bf6a-4728-bfb4-58a32c76a37b">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 22 15 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/aa9356fd-576c-44a2-9920-8a145b98dcee">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 23 27 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/f4693c2e-7d93-4699-9580-a6352e409aa8">
+<img width="1512" alt="Screenshot 2024-03-15 at 2 23 32 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/c9c9906b-1e0f-443d-8e26-33a1bd5ad188">
+
 </p>
 
 <br />
